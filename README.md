@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimafrombatumi
 - 👀 I’m interested in JavaScript, React JS, and Frontend))
-- 🌱 I’m currently learning React JS and Vanila JS
+- 🌱 I’m currently learning React Native, React Js and Vanila JS
 - 📫 Write me in my email: dimafrombatumi@gmail.com
 
 <!---
